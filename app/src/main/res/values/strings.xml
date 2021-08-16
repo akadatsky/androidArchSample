@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gif4work</string>
+    <string name="search">Search</string>
+    <string name="search_text_empty">Please type search text</string>
+</resources>
